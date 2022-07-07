@@ -8,7 +8,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-483b75236/)
 
-[![Twitter](https://img.shields.io/twitter/logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dulakhan024)
+[Twitter](https://twitter.com/dulakhan024)
 
 ## 🛠 &nbsp;Tech Stack
 
